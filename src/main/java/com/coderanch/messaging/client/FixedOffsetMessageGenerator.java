@@ -1,7 +1,7 @@
 package com.coderanch.messaging.client;
 
 import com.coderanch.messaging.domain.Person;
-import com.coderanch.messaging.template.v1.MessageTemplate;
+import com.coderanch.messaging.templatebridge.MessageTemplate;
 
 public class FixedOffsetMessageGenerator {
     public String generate(Person person) {
