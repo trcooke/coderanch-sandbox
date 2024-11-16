@@ -1,4 +1,4 @@
-coderanch-sandbox
+CodeRanch Sandbox
 =================
 
-Programs and code used while involved with threads on coderanch.com
+Code examples used while helping folks out on [coderanch.com/forums](https://coderanch.com/forums).
